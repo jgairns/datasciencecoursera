@@ -20,8 +20,4 @@ This is tab 2
 
 <kbd>Ctrl+A</kbd>
 
-#### <i class="icon-trash"></i> Delete a document
-
-> This is a line of text.
-> This is some more.
-> Not sure what this is.
+> This is a line of text, this is some more, but I am not sure what this is. JHASJ KHKJAHSKJDH KAJHHAKJSH AJKHKSJHAKJSH KJAHSKDJH KJHASKJHDKJAH DJSKHAKSJHDK JHKAJSHDASD 
