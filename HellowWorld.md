@@ -1,5 +1,4 @@
 ## This is a markdown file
-
 ## h2 Header
 ### h3 header
 * bullet list 1
