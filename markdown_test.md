@@ -6,5 +6,15 @@
 * Bullet point 2
 * Bullet point 3
   * Bullet point 3.1
-   * Bullet point 3.1.1
   * Bullet point 3.2
+
+**Bold text**
+
+```sh
+This is tab 1
+```
+
+```sh
+This is tab 2
+```
+
